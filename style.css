@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+@media screen and (max-width :1023px) and (min-width :768px) {
+    .all{
+        background-color:  #cabdf0;
+    }
+    }
+
+.heading{
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    
+}
+
+
+
+.box-img{
+    height: 800px;
+    background-size: cover;
+
+}
+
+
+.para{
+    height: 400px;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
+
+/* .all{
+    background-color: #cabdf0;
+} */
+
+.form{
+    font-size: large;
+}
+
+.all2{
+    margin-left: 40px;
+    margin-right: 40px;
+}
